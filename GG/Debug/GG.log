@@ -1,0 +1,36 @@
+﻿  GG.cpp
+D:\Main\C++\GG\GG\CommonFunction.h(44,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\Main\C++\GG\GG\CommonFunction.h(56,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+D:\Main\C++\GG\GG\GG.cpp(87,37): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Main\C++\GG\GG\GG.cpp(90,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GG\GG\GG.cpp(91,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GG\GG\GG.cpp(112,37): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Main\C++\GG\GG\GG.cpp(176,27): warning C4018: '<': signed/unsigned mismatch
+D:\Main\C++\GG\GG\GG.cpp(194,37): warning C4018: '<': signed/unsigned mismatch
+D:\Main\C++\GG\GG\GG.cpp(225,27): warning C4018: '<': signed/unsigned mismatch
+D:\Main\C++\GG\GG\GG.cpp(230,35): warning C4018: '<': signed/unsigned mismatch
+D:\Main\C++\GG\GG\GG.cpp(274,23): warning C4018: '<': signed/unsigned mismatch
+  ThreatObject.cpp
+D:\Main\C++\GG\GG\CommonFunction.h(44,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\Main\C++\GG\GG\CommonFunction.h(56,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+D:\Main\C++\GG\GG\ThreatObject.cpp(88,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(89,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(107,33): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Main\C++\GG\GG\ThreatObject.cpp(147,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(148,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(150,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(151,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(163,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(179,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(188,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(189,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(191,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(192,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(204,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(220,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(237,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(310,43): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+D:\Main\C++\GG\GG\ThreatObject.cpp(320,20): warning C4018: '<': signed/unsigned mismatch
+D:\Main\C++\GG\GG\ThreatObject.cpp(342,44): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  Generating Code...
+  GG.vcxproj -> D:\Main\C++\GG\Debug\GG.exe
